@@ -1,5 +1,5 @@
 # Effective-TypeScript
-## Studying Effective TypeScript!
+## Studying Effective TypeScript!1
 
 
 매주 **일요일** 오후 2시 ~ 4시 (구글밋)
